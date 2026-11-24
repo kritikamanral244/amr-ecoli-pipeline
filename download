@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.tsv
+*.csv
+*.json
+*.joblib
+*.faa
+*.fna
+*.gff
+dbs/
+*.hmm
+*.hmm.h3*
